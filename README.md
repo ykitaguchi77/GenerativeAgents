@@ -1,0 +1,2 @@
+# GenerativeAgents
+LangChainとLangGraphによるRAG/AIエージェント実践入門　勉強用
